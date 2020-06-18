@@ -51,4 +51,4 @@ print(obj.stdev)
 
 ```
 ## Package PyPl
-Also this package you can download from [PyPl.org](https://pypi.org/project/rkb-probability/)
+Download package from [PyPl.org](https://pypi.org/project/rkb-probability/)
