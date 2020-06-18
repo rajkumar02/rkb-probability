@@ -47,7 +47,7 @@ obj1 = Gaussian(10, 4)
 print(obj1.mean)
 
 obj2 = Binomial(.4, 25)
-print(obj.stdev)
+print(obj2.stdev)
 
 ```
 ## Package PyPl
